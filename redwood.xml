@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/sony/redwood" remote="github" name="AndroidBlobs/device_alps_redwood" revision="full_redwood-user-8.0.0-O00623-1556208356-test-keys" />
-  <project path="kernel/sony/mt6757" remote="github" name="SonyMTKDev/android_kernel_sony_mt6757" revision="lineage-15.1" />
-  <project path="vendor/alps/redwood" remote="github" name="AndroidBlobs/vendor_alps_redwood" revision="full_redwood-user-8.0.0-O00623-1556208356-test-keys" />
+  <project path="device/sony/redwood" remote="github" name="AndroidBlobs/device_alps_redwood" />
+  <project path="kernel/sony/mt6757" remote="github" name="SonyMTKDev/android_kernel_sony_mt6757" />
+  <project path="vendor/alps/redwood" remote="github" name="AndroidBlobs/vendor_alps_redwood" />
 </manifest>
